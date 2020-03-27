@@ -6,3 +6,5 @@
   # train.csv is the trainingset of titanic dataset 
   # test.csv is the testset of titanic dataset
   # group1_final_project.ipynb is all our code.
+# Jia Guo writes all the code in group1_final_project.ipynb except for the graph plot in Exploratory Data Analysis
+# Jia Guo provides content in group1_final_presentation.pptx except for the 8th page in the powerpoint
