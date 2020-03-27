@@ -3,3 +3,6 @@
   # group1_final_presentation is the powerpoint we present in the presentation
   # submission is the predict result using sklearn gradientboost which got 0.7945 in Kaggle
   # submission2 is the predict result using our own implemented gradientboost 
+  # train is the trainingset of titanic dataset 
+  # test is the testset of titanic dataset
+  
