@@ -8,4 +8,4 @@
   # group1_final_project.ipynb is all our code
 # Jia Guo writes the code in group1_final_project.ipynb except for the plot in Exploratory Data Analysis and provides content in group1_final_presentation.pptx except for the 8th page in the powerpoint
 # Yuyang Xiao does Exploratory Data Analysis and write coresponding code and provide content in 8th page in the powerpoint
-# Junyong Cao give valuable suggestion on result analysis 
+# Junyong Cao gives valuable suggestion on result analysis 
